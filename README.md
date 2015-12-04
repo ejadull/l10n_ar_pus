@@ -1,2 +1,3 @@
-# l10n_ar_pus
-Public Service Utility localization for Argentina.
+# Public Utility Services for Argentina Localization.
+
+_Main module_: https://github.com/csrocha/odoo-public-utility-service
